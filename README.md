@@ -13,3 +13,8 @@ https://bit.dev/lil/baseth
 # OpenZeppelin Contracts ethereum package:
 
 https://github.com/OpenZeppelin/openzeppelin-contracts-ethereum-package 
+
+
+https://bit.dev/lil/baseth
+https://baseth2.lildata.now.sh/
+https://baseth.lildata.now.sh/contractinfo
